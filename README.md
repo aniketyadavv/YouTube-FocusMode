@@ -1,8 +1,9 @@
 # YouTube-FocusMode 🎯
-YouTube-FocusMode is a browser extension that allows users to block comments, live chats, and video recommendations on YouTube. It is designed to help users focus on the video content they are watching without any distractions.
-
 [![GitHub forks](https://img.shields.io/github/forks/aniketyadavv/YouTube-FocusMode.svg?style=social&label=Fork&color=red)](https://github.com/aniketyadavv/YouTube-FocusMode)
 [![GitHub stars](https://img.shields.io/github/stars/aniketyadavv/YouTube-FocusMode.svg?style=social&label=Star&color=red)](https://github.com/aniketyadavv/YouTube-FocusMode)
+
+YouTube-FocusMode is a browser extension that allows users to block comments, live chats, and video recommendations on YouTube. It is designed to help users focus on the video content they are watching without any distractions.
+
 
 
 ## Features 💡
@@ -36,3 +37,5 @@ To install the YouTube-FocusMode extension on your local machine, follow these s
 
 ## Contributions 🔥
 If you want to contribute to the development of YouTube-FocusMode, please feel free to submit a pull request or open an issue on GitHub. We welcome all contributions and feedback.
+
+<hr>
