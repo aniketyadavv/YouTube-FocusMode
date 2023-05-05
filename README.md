@@ -11,7 +11,6 @@ YouTube-FocusMode is a browser extension that allows users to block comments, li
 :star: **Easy to use** : YouTube-FocusMode is very easy to use. Once installed, users can simply click on the extension icon to activate the FocusMode.
 
 ## Demo 📺
-![alt text](https://github.com/aniketyadavv/YouTube-FocusMode/blob/main/screenshot2.png)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5K3I_UNQJe4/0.jpg)](https://youtu.be/5K3I_UNQJe4)
 > Watch this video...
 
