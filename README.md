@@ -21,7 +21,8 @@ YouTube-FocusMode is a browser extension that allows users to block comments, li
 
 ## Installation ⚙️
 To install the YouTube-FocusMode extension on your local machine, follow these steps:
-:star: Download the extension files from the GitHub repository.
+
+🎲 Download the extension files from the GitHub repository.
 
 🎲 Open your preferred web browser and navigate to the extensions page. For example, in Google Chrome, you can type chrome://extensions/ in the address bar to access the extensions page.
 
